@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=내용입력&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=JiSungPark Github!&fontSize=90" />
 
 [![Park21700305's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Park21700305&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Park21700305)
 
