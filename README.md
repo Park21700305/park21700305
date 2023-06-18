@@ -1,18 +1,37 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=JiSungPark Github!&fontSize=90" />
+![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=300&section=header&text=Welcome&fontAlign=50&fontAlignY=45&desc=ParkJisung's%20Github&descSize=25&descAlign=70&descAlignY=61&fontSize=120&fontColor=random)
 
-[![Park21700305's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Park21700305&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Park21700305)
-
-
-<div align=center><h1>📚 STACKS</h1></div>
-<div align=center> 
-  <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/r-276DC3?style=for-the-badge&logo=r&logoColor=white">
-  <br>
+<div align="left">
+  <h1>:fire:박지성(Pakr_Jisung):fire:</h1>
+  <h3>웹 개발 족욕중입니다.</h3>
   
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
-  <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=Vim&logoColor=white">
+  <h2>Contact</h2>
+
+  <a href="https://www.instagram.com/10_mandarin/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+  <img alt="Gmail" src="https://img.shields.io/badge/gggg0195@gmail.com-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
+  <a href="https://velog.io/@live_in_truth" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog5&logoColor=white"></a>
+</div>
+
+<div align="left">
+  <h2>:hatching_chick:Studying:hatching_chick:</h2>
+
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=Css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>  
+</div>
+
+## My Stats 
+
+<div align="left">
+  <a href="https://github.com/park21700305/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Park21700305&theme=calm" alt="ParkJisung GitHub stats">
+  </a>
   <br>
+  <a href="https://github.com/park21700305/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=park21700305&layout=compact&theme=gruvbox" alt="Top Langs">
+  </a>
+</div>
