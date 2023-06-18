@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=300&section=header&text=Welcome&fontAlign=50&fontAlignY=45&desc=ParkJisung's%20Github&descSize=25&descAlign=70&descAlignY=61&fontSize=120&fontColor=random)
 
 <div align="left">
-  <h1>:fire:박지성(Pakr_Jisung):fire:</h1>
+  <h1>:fire:박지성(Park_Jisung):fire:</h1>
   <h3>웹 개발 족욕중입니다.</h3>
   
   <h2>Contact</h2>
