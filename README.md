@@ -4,7 +4,7 @@
   <h1>:fire:박지성(Park_Jisung):fire:</h1>
   <h3>웹 개발 족욕중입니다.</h3>
   
-  <h2>Contact</h2>
+  <h2>:telephone_receiver:Contact</h2>
 
   <a href="https://www.instagram.com/10_mandarin/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
   <img alt="Gmail" src="https://img.shields.io/badge/gggg0195@gmail.com-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
@@ -12,7 +12,7 @@
 </div>
 
 <div align="left">
-  <h2>:hatching_chick:Studying:hatching_chick:</h2>
+  <h2>:gem: Studying</h2>
 
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>  
 </div>
 
-## My Stats 
+## :running:My Stats 
 
 <div align="left">
   <a href="https://github.com/park21700305/github-readme-stats">
