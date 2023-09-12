@@ -2,7 +2,7 @@
 
 <div align="left">
   <h1>:fire:박지성(Park_Jisung):fire:</h1>
-  <h3>웹 개발 족욕중입니다.</h3>
+  <h3>나누려 배우는 학생입니다.</h3>
   
   <h2>:telephone_receiver:Contact</h2>
 
